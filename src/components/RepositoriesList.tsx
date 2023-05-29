@@ -1,4 +1,4 @@
-const RepositoriesList = () => {
+const RepositoriesList: React.FC = () => {
   return (
     <form>
       <input />
